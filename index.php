@@ -18,6 +18,10 @@
 }
 body{
     background-color: #080710;
+    background-image:url(register.php);
+    background-position:center;
+    background-repeat: no-repeat;
+
 }
 .background{
     /* width: 430px;
@@ -141,7 +145,7 @@ button{
         <div class="shape"></div>
     </div>
     <form>
-        <h3>Login Here</h3>
+        <h3>Register</h3>
 
         <label for="username">Username</label>
         <input type="text" placeholder="Email or Phone" id="username">
