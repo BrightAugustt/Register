@@ -26,14 +26,14 @@ body{
     transform: translate(-50%,-50%);
     left: 50%;
     top: 50%; */
-    background-image:url(register.php) ;
+    background-image:url(register.php);
 }
-.background .shape{
+/* .background .shape{
     /* height: 200px;
     width: 200px;
     position: absolute;
     border-radius: 50%; */
-}
+/* } */ */
 .shape:first-child{
     background: linear-gradient(
         #1845ad,
